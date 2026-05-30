@@ -31,6 +31,7 @@ models/*.joblib
 .vscode/
 .idea/
 *.swp
+*.code-workspace
 
 # OS
 .DS_Store
